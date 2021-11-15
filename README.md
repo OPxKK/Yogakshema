@@ -1,8 +1,11 @@
 # Yogakshema
 
-For CSS Footer Files => 
-There are respective files for viewing the Images inside the particular folders, Press on the images directory to view the images.
 
-For CSS Files =>
-There are CSS Files which are different for the footer, consists special folder designated for the same. Also, there are CSS files for exclusive content.
+Changes made in this commit:-
+
+1.) Footer => There were certain irregularities in consideration with device in concern of the footr, so changing it was the only way. The updated footer is responsive for all the devices.
+
+2.) Asanas (photos) => The photos were being taken from facebook and swapped with the older photos, you can ccheck the website once you download the respective files.
+
+
 
